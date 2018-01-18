@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityImagine.Plugins", "UnityImagine.Plugins.csproj", "{7F18742D-882E-D316-7ABD-55D15FB8319D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityImagine", "UnityImagine.csproj", "{6E7FBBA1-C7AF-E021-B8B0-1AAE076303FF}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityImagine.Editor.Plugins", "UnityImagine.Editor.Plugins.csproj", "{A37B45F8-2E76-93F5-F696-A092AB1CAC7A}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{7F18742D-882E-D316-7ABD-55D15FB8319D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F18742D-882E-D316-7ABD-55D15FB8319D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F18742D-882E-D316-7ABD-55D15FB8319D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7FBBA1-C7AF-E021-B8B0-1AAE076303FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7FBBA1-C7AF-E021-B8B0-1AAE076303FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7FBBA1-C7AF-E021-B8B0-1AAE076303FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7FBBA1-C7AF-E021-B8B0-1AAE076303FF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A37B45F8-2E76-93F5-F696-A092AB1CAC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A37B45F8-2E76-93F5-F696-A092AB1CAC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A37B45F8-2E76-93F5-F696-A092AB1CAC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
